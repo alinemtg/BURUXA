@@ -1,6 +1,5 @@
 # BURUXA
-"first experiences in Unity"
-Jogo desenvolvido durante a II Jam das Minas, em Recife, Pernambuco
+first experiences in Unity
 
 ![](https://github.com/alinemtg/BURUXA/blob/master/Assets/Menu/img%20menu/tela%20inicial.png)
 
