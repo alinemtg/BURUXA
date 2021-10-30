@@ -9,7 +9,19 @@
 
 ## Team
 
+### DEVELOPTMENT
 - Aline Gouveia
 - Iris Soares
 - Melissa Falcão
 - Rebeca Silva
+
+### GAME DESIGN
+- Paula Soares
+- Giulia Sotero
+
+### SOUND DESIGN
+- Nara Araújo
+
+### MANAGEMENT
+- Karolina Santana
+
